@@ -1,2 +1,2 @@
 # TM
-For scripts and homeworks
+For scripts and homeworks from Telerik
